@@ -1,0 +1,14 @@
+C:\Users\hamed\Desktop\IdentityApiProj\IdentityApiProj.Data.EF\obj\Debug\net6.0\IdentityApiProj.Data.EF.csproj.AssemblyReference.cache
+C:\Users\hamed\Desktop\IdentityApiProj\IdentityApiProj.Data.EF\obj\Debug\net6.0\IdentityApiProj.Data.EF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hamed\Desktop\IdentityApiProj\IdentityApiProj.Data.EF\obj\Debug\net6.0\IdentityApiProj.Data.EF.AssemblyInfoInputs.cache
+C:\Users\hamed\Desktop\IdentityApiProj\IdentityApiProj.Data.EF\obj\Debug\net6.0\IdentityApiProj.Data.EF.AssemblyInfo.cs
+C:\Users\hamed\Desktop\IdentityApiProj\IdentityApiProj.Data.EF\obj\Debug\net6.0\IdentityApiProj.Data.EF.csproj.CoreCompileInputs.cache
+C:\Users\hamed\Desktop\IdentityApiProj\IdentityApiProj.Data.EF\bin\Debug\net6.0\IdentityApiProj.Data.EF.deps.json
+C:\Users\hamed\Desktop\IdentityApiProj\IdentityApiProj.Data.EF\bin\Debug\net6.0\IdentityApiProj.Data.EF.dll
+C:\Users\hamed\Desktop\IdentityApiProj\IdentityApiProj.Data.EF\bin\Debug\net6.0\IdentityApiProj.Data.EF.pdb
+C:\Users\hamed\Desktop\IdentityApiProj\IdentityApiProj.Data.EF\obj\Debug\net6.0\IdentityApiProj.Data.EF.dll
+C:\Users\hamed\Desktop\IdentityApiProj\IdentityApiProj.Data.EF\obj\Debug\net6.0\refint\IdentityApiProj.Data.EF.dll
+C:\Users\hamed\Desktop\IdentityApiProj\IdentityApiProj.Data.EF\obj\Debug\net6.0\IdentityApiProj.Data.EF.pdb
+C:\Users\hamed\Desktop\IdentityApiProj\IdentityApiProj.Data.EF\obj\Debug\net6.0\ref\IdentityApiProj.Data.EF.dll
+C:\Users\hamed\Desktop\IdentityApiProj\IdentityApiProj.Data.EF\bin\Debug\net6.0\IdentityApiProj.Data.EF.runtimeconfig.json
+C:\Users\hamed\Desktop\IdentityApiProj\IdentityApiProj.Data.EF\obj\Debug\net6.0\IdentityApiProj.Data.EF.genruntimeconfig.cache
